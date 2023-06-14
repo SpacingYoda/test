@@ -1,2 +1,2 @@
 <?php echo "golden freddy, i hopenothing bad jhappens to you.";
-echo "what do you want?";
+echo "what do you want? yes kjadfvjdsbjdsv";
